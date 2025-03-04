@@ -31,8 +31,8 @@ I’m eager to collaborate on open-source projects, internships, and real-world 
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" width="400px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayorick23&show_icons=true&theme=radical" width="400px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayorick23&theme=radical" width="400px">
 </p>
 
 ## 📩 Let's Connect!  

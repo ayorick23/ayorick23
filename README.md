@@ -1,4 +1,4 @@
-## 👋 Hi, I'm [Tu Nombre]
+## 👋 Hi, I'm Dereck Mendez
 🚀 Aspiring Software Engineer & Data Scientist | 🎓 Computer Science Student | 🇸🇻 From El Salvador
 
 👨‍💻 About Me

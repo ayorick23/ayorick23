@@ -10,7 +10,10 @@ I'm a 25-year-old passionate programmer currently studying Software Engineering 
 ✔️ Lifelong Learning – Always exploring new technologies and best practices<br>
 ✔️ Problem-Solving Mindset – Passionate about tackling real-world challenges through code<br>
 ✔️ Collaboration – Excited to work on team projects and learn from experienced developers<br><br>
-
+## 🛠️ Tech Stack  
+### 📌 Programming Languages  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 🛠️ <b>Tech Stack</b><br>
   💻 Languages: Python, SQL<br>
   📊 Data Analytics & BI: Power BI, Excel<br>

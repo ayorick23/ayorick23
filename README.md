@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Dereck Mendez!</h1>
+<h1 align="center"><b>Hi there, I'm Dereck Mendez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   🚀 Aspiring <strong>Software Development & Data Science</strong> | 🎓 Computer Science Student
 </p>
@@ -13,10 +13,9 @@ I'm a 25-year-old passionate programmer currently studying Software Engineering 
 ✔️ Problem-Solving Mindset – Passionate about tackling real-world challenges through code<br>
 ✔️ Collaboration – Excited to work on team projects and learn from experienced developers<br><br>
 
-## 🛠️ Tech Stack  
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
+<br>
 ### 📌 Programming Languages  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 [![My Skills](https://skillicons.dev/icons?i=python,mysql)](https://skillicons.dev)
 
 ### 📊 Data & Business Intelligence  
@@ -24,14 +23,13 @@ I'm a 25-year-old passionate programmer currently studying Software Engineering 
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 ### 🔧 Tools & Technologies  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 [![My Skills](https://skillicons.dev/icons?i=anaconda,git,github,notion,pycharm,vscode)](https://skillicons.dev)
 
 🌱 <b>Looking for Opportunities</b><br>
 I’m eager to collaborate on open-source projects, internships, and real-world applications that help me enhance my coding skills and gain hands-on experience in the industry.<br>
 
-## 📈 GitHub Stats  
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br> 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayorick23&show_icons=true&theme=radical" width="400px">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayorick23&theme=radical" width="400px">

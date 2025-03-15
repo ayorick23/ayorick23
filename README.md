@@ -17,6 +17,7 @@ I'm a 25-year-old passionate programmer currently studying Software Engineering 
 ### 📌 Programming Languages  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql)](https://skillicons.dev)
 
 ### 📊 Data & Business Intelligence  
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
@@ -25,6 +26,7 @@ I'm a 25-year-old passionate programmer currently studying Software Engineering 
 ### 🔧 Tools & Technologies  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,git,github,notion,pycharm,vscode)](https://skillicons.dev)
 
 🌱 <b>Looking for Opportunities</b><br>
 I’m eager to collaborate on open-source projects, internships, and real-world applications that help me enhance my coding skills and gain hands-on experience in the industry.<br>

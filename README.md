@@ -22,7 +22,10 @@ I'm a 25-year-old passionate programmer currently studying Software Engineering 
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 ### 🔧 Tools & Technologies  
-[![My Skills](https://skillicons.dev/icons?i=anaconda,git,github,notion,pycharm,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,git,github,pycharm,visualstudio,vscode)](https://skillicons.dev)
+
+### Extras
+[![My Skills](https://skillicons.dev/icons?i=latex,md,notion,powershell,stackoverflow)](https://skillicons.dev)
 
 🌱 <b>Looking for Opportunities</b><br>
 I’m eager to collaborate on open-source projects, internships, and real-world applications that help me enhance my coding skills and gain hands-on experience in the industry.<br>

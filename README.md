@@ -24,7 +24,7 @@ I'm a 25-year-old passionate programmer currently studying Software Engineering 
 ### 🔧 Tools & Technologies  
 [![My Skills](https://skillicons.dev/icons?i=anaconda,git,github,pycharm,visualstudio,vscode)](https://skillicons.dev)
 
-### Extras
+### 💾 Extras
 [![My Skills](https://skillicons.dev/icons?i=latex,md,notion,powershell,stackoverflow)](https://skillicons.dev)
 
 🌱 <b>Looking for Opportunities</b><br>

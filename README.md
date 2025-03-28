@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi there, I'm Dereck Mendez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  🚀 Aspiring <strong>Software Development & Data Science</strong> | 🎓 Computer Science Student
+Aspiring <strong>Software Development & Data Science</strong> | Computer Science Student
 </p>
 
 ## 👨‍💻 About Me

@@ -14,12 +14,14 @@ I believe that technology can drive change, and I’m eager to participate in in
 - Collaboration – Excited to work on team projects and learn from experienced developers
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
-### 📌 Programming Languages  
+### Programming Languages  
 [![My Skills](https://skillicons.dev/icons?i=python,mysql)](https://skillicons.dev)
 
-### 📊 Data & Business Intelligence  
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+### 📊 Data & Business Intelligence
+<img width="48" height="48" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>
 
 ### 🔧 Tools & Technologies  
 [![My Skills](https://skillicons.dev/icons?i=anaconda,git,github,pycharm,visualstudio,vscode)](https://skillicons.dev)

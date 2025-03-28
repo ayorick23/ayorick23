@@ -6,12 +6,12 @@ Aspiring <strong>Software Development & Data Science</strong> | Computer Science
 ## 👨‍💻 About Me
 I'm a 25-year-old passionate programmer currently studying Software Engineering and Data Science. I have an insatiable curiosity for technology, data analytics, and software development, and I'm constantly seeking new challenges to grow my skills.<br>
 
-💡 I believe that technology can drive change, and I’m eager to participate in innovative projects that allow me to develop real-world solutions. My goal is to become a highly skilled developer, capable of making an impact through data-driven applications and efficient software solutions.<br>
+I believe that technology can drive change, and I’m eager to participate in innovative projects that allow me to develop real-world solutions. My goal is to become a highly skilled developer, capable of making an impact through data-driven applications and efficient software solutions.<br>
 
-🔥 <b>What Drives Me</b><br>
-✔️ Lifelong Learning – Always exploring new technologies and best practices<br>
-✔️ Problem-Solving Mindset – Passionate about tackling real-world challenges through code<br>
-✔️ Collaboration – Excited to work on team projects and learn from experienced developers<br><br>
+### What Drives Me
+- Lifelong Learning – Always exploring new technologies and best practices
+- Problem-Solving Mindset – Passionate about tackling real-world challenges through code
+- Collaboration – Excited to work on team projects and learn from experienced developers
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 ### 📌 Programming Languages  

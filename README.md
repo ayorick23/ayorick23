@@ -21,7 +21,7 @@ I believe that technology can drive change, and I’m eager to participate in in
 <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/> <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/> <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>
 
 ### 🔧 Tools & Technologies  
-[![My Skills](https://skillicons.dev/icons?i=anaconda,git,github,pycharm,visualstudio,vscode)](https://skillicons.dev) ![jupyter-notebook](https://github.com/user-attachments/assets/eccdd28b-4c77-462e-bbd8-1b00eb1ecc3b)
+[![My Skills](https://skillicons.dev/icons?i=git,github,pycharm,visualstudio,vscode,anaconda)](https://skillicons.dev)(https://github.com/user-attachments/assets/eccdd28b-4c77-462e-bbd8-1b00eb1ecc3b)
 
 
 ### 💾 Extras

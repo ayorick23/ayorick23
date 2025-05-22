@@ -15,17 +15,17 @@ I believe that technology can drive change, and I’m eager to participate in in
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 ### Programming Languages  
-[![My Skills](https://skillicons.dev/icons?i=python,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql)](https://skillicons.dev)<img width="48" height="48" src="https://github.com/user-attachments/assets/34610dc1-39db-4ccb-9c9f-479b7ba9eb82" alt="sqlserver"/>
 
 ### 📊 Data & Business Intelligence
 <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/> <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/> <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>
 
 ### 🔧 Tools & Technologies  
-[![My Skills](https://skillicons.dev/icons?i=git,github,pycharm,visualstudio,vscode,anaconda)](https://skillicons.dev)<img width="48" height="48" src="https://github.com/user-attachments/assets/eccdd28b-4c77-462e-bbd8-1b00eb1ecc3b" alt="jupyter-notebook"/>
+[![My Skills](https://skillicons.dev/icons?i=git,github,pycharm,anaconda,visualstudio,vscode)](https://skillicons.dev)<img width="48" height="48" src="https://github.com/user-attachments/assets/eccdd28b-4c77-462e-bbd8-1b00eb1ecc3b" alt="jupyter-notebook"/>
 
 
 ### 💾 Extras
-[![My Skills](https://skillicons.dev/icons?i=latex,md,notion,powershell,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,notion,latex,md,powershell,stackoverflow)](https://skillicons.dev)
 
 🌱 <b>Looking for Opportunities</b><br>
 I’m eager to collaborate on open-source projects, internships, and real-world applications that help me enhance my coding skills and gain hands-on experience in the industry.<br>

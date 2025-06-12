@@ -14,7 +14,7 @@ I believe that technology can drive change, and I’m eager to participate in in
 - Collaboration – Excited to work on team projects and learn from experienced developers
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
-### Programming Languages  
+### 🖥️ Programming Languages  
 [![My Skills](https://skillicons.dev/icons?i=python,r,mysql)](https://skillicons.dev)<img width="48" height="48" src="https://github.com/user-attachments/assets/34610dc1-39db-4ccb-9c9f-479b7ba9eb82" alt="sqlserver"/>
 
 ### 📊 Data & Business Intelligence

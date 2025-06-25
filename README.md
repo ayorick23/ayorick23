@@ -33,8 +33,11 @@ I’m eager to collaborate on open-source projects, internships, and real-world 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br> 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayorick23&show_icons=true&theme=radical" width="400px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayorick23&theme=radical" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayorick23&show_icons=true&theme=dracula" width="400px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayorick23&theme=dracula" width="400px">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayorick23)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+  
 </p>
 
 ## 📩 Let's Connect!  

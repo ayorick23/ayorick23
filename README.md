@@ -35,7 +35,7 @@ I’m eager to collaborate on open-source projects, internships, and real-world 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayorick23&show_icons=true&theme=dracula" width="400px">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayorick23&theme=dracula" width="400px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayorick23&layout=compact" width="400px">
 </p>
 
 ## 📩 Let's Connect!  

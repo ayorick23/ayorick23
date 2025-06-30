@@ -25,7 +25,7 @@ I believe that technology can drive change, and I’m eager to participate in in
 
 
 ### 💾 Extras
-[![My Skills](https://skillicons.dev/icons?i=figma,notion,latex,md,powershell,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,obsidian,notion,md,latex,powershell)](https://skillicons.dev)
 
 🌱 <b>Looking for Opportunities</b><br>
 I’m eager to collaborate on open-source projects, internships, and real-world applications that help me enhance my coding skills and gain hands-on experience in the industry.<br>

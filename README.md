@@ -15,7 +15,7 @@ I believe that technology can drive change, and I’m eager to participate in in
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 ### 🖥️ Programming Languages  
-[![My Skills](https://skillicons.dev/icons?i=python,r,mysql)](https://skillicons.dev)<img width="48" height="48" src="https://github.com/user-attachments/assets/34610dc1-39db-4ccb-9c9f-479b7ba9eb82" alt="sqlserver"/>
+[![My Skills](https://skillicons.dev/icons?i=python,java,r,mysql)](https://skillicons.dev)<img width="48" height="48" src="https://github.com/user-attachments/assets/34610dc1-39db-4ccb-9c9f-479b7ba9eb82" alt="sqlserver"/>
 
 ### 📊 Data & Business Intelligence
 <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/> <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/> <img width="48" height="48" src="https://github.com/user-attachments/assets/b5b95fba-ecfa-450e-9455-495301770a7f" alt="sympy"/> <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/> <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/> <img width="48" height="48" src="https://github.com/user-attachments/assets/43218651-0a52-44b5-92c7-35a1bcf129b3" alt="matplotlib"/>

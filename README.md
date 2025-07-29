@@ -40,9 +40,9 @@ I am currently seeking Business Intelligence and Data Analyst opportunities that
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats</b>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayorick23&show_icons=true&theme=midnight-purple" width="350px"><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayorick23&theme=midnight-purple" height="150" width="350px"><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayorick23&layout=compact&theme=midnight-purple&hide=html,css" alt="Top Langs" height="150px" width="350px">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayorick23&show_icons=true&theme=shadow_red" width="350px"><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayorick23&theme=shadow_red" height="150" width="350px"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayorick23&layout=compact&theme=shadow_red&hide=html,css" alt="Top Langs" height="150px" width="350px">
 </p>
 
 ## 📩 Let's Connect!

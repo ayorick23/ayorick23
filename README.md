@@ -42,6 +42,7 @@ I am currently seeking Business Intelligence and Data Analyst opportunities that
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayorick23&show_icons=true&theme=dracula" width="350px"><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayorick23&theme=dracula" height="150" width="350px"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayorick23&layout=compact&theme=midnight-purple&hide=html,css" alt="Top Langs" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayorick23&layout=compact" height = "150" width="350px">
 </p>
 

@@ -24,7 +24,7 @@ What truly drives me is the challenge of building solutions that have a positive
 
 ### 🔧 Tools & Technologies
 
-![Tools & Technologies](https://skillicons.dev/icons?i=git,github,idea,pycharm,vscode)
+![Tools & Technologies](https://skillicons.dev/icons?i=git,github,docker,idea,pycharm,vscode)
 <img width="48" height="48" src="https://github.com/user-attachments/assets/eccdd28b-4c77-462e-bbd8-1b00eb1ecc3b" alt="jupyter-notebook"/>
 <img width="48" height="48" src="https://github.com/user-attachments/assets/a0e3f677-ddb6-43c8-aecd-4790a5d6f9f3" alt="google-colab"/>
 <img width="43" height="43" src="https://datamodel.com/wp-content/uploads/2025/05/ssms_21.png" alt="ssms"/>

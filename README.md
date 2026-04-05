@@ -15,7 +15,7 @@ What truly drives me is the challenge of building solutions that have a positive
 
 ### 🖥️ Programming Languages
 
-![Programming Languages](https://skillicons.dev/icons?i=python,java,csharp,r,mysql)
+![Programming Languages](https://skillicons.dev/icons?i=python,java,cs,r,mysql)
 <img width="48" height="48" src="https://github.com/user-attachments/assets/34610dc1-39db-4ccb-9c9f-479b7ba9eb82" alt="sqlserver"/>
 
 ### 📊 Data & Business Intelligence

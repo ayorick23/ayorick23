@@ -17,7 +17,7 @@ Automated ETL pipeline that processes multiple Excel reports, cleans and transfo
 ⭐ **Notion Data Pipeline**  
 Data pipeline that extracts data from the Notion API, transforms it, and generates structured datasets for reporting and analysis.
 
-🔹 **HR Data Analysis & Dashboards**  
+⭐ **HR Data Analysis & Dashboards**  
 Development of dashboards in Power BI and Looker Studio to track KPIs, recruitment metrics, and workforce data.
 
 ### 📊 Data Analysis & Business Intelligence
@@ -37,8 +37,6 @@ Development of dashboards in Power BI and Looker Studio to track KPIs, recruitme
 
 ![Tools & Technologies](https://skillicons.dev/icons?i=git,github,docker,vscode)
 <img width="48" height="48" src="https://github.com/user-attachments/assets/eccdd28b-4c77-462e-bbd8-1b00eb1ecc3b" alt="jupyter-notebook"/>
-<img width="48" height="48" src="https://github.com/user-attachments/assets/a0e3f677-ddb6-43c8-aecd-4790a5d6f9f3" alt="google-colab"/>
-<img width="43" height="43" src="https://datamodel.com/wp-content/uploads/2025/05/ssms_21.png" alt="ssms"/>
 
 ### 🧮 Extras
 

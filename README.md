@@ -20,6 +20,8 @@ Data pipeline that extracts data from the Notion API, transforms it, and generat
 ⭐ **HR Data Analysis & Dashboards**  
 Development of dashboards in Power BI and Looker Studio to track KPIs, recruitment metrics, and workforce data.
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
+
 ### 📊 Data Analysis & Business Intelligence
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/><img width="45" height="45" src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" alt="looker-studio"/><img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/><img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/><img width="48" height="48" src="https://github.com/user-attachments/assets/43218651-0a52-44b5-92c7-35a1bcf129b3" alt="matplotlib"/>
@@ -47,8 +49,6 @@ Development of dashboards in Power BI and Looker Studio to track KPIs, recruitme
 I am driven by the ability to turn raw data into meaningful insights that support better business decisions. I enjoy identifying inefficiencies, automating processes, and building data solutions that create real impact.
 
 I am especially interested in leveraging data to improve organizational performance, optimize workflows, and support strategic decision-making.
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 
 ## 🚀 Professional Focus
 

@@ -56,12 +56,6 @@ I am currently focused on Data Analyst and Business Intelligence roles where I c
 
 I bring a strong combination of technical skills and business understanding, especially in HR data, and I am ready to contribute by building efficient, data-driven solutions.
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats</b>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayorick23&theme=vision-friendly-dark" height="150" width="350px"><br>
-</p>
-
 ## 📩 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dereckmendez/)

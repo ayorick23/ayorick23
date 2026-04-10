@@ -59,9 +59,7 @@ I bring a strong combination of technical skills and business understanding, esp
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats</b>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayorick23&show_icons=true&theme=vision-friendly-dark" width="350px"><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayorick23&theme=vision-friendly-dark" height="150" width="350px"><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayorick23&layout=compact&theme=vision-friendly-dark&hide=html,css" alt="Top Langs" height="150px" width="350px">
 </p>
 
 ## 📩 Let's Connect!

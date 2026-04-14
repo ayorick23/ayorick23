@@ -26,7 +26,7 @@ Development of dashboards in Power BI and Looker Studio to track KPIs, recruitme
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/><img width="45" height="45" src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" alt="looker-studio"/><img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/><img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/><img width="48" height="48" src="https://github.com/user-attachments/assets/43218651-0a52-44b5-92c7-35a1bcf129b3" alt="matplotlib"/>
 
-### Databases
+### 💾 Databases
 
 ![Programming Languages](https://skillicons.dev/icons?i=mysql,mongodb)
 <img width="48" height="48" src="https://github.com/user-attachments/assets/34610dc1-39db-4ccb-9c9f-479b7ba9eb82" alt="sqlserver"/>

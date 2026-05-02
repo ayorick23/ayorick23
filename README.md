@@ -11,14 +11,14 @@ I have developed data pipelines to automate reporting processes, improving effic
 
 ## 📌 Featured Projects
 
+⭐ **Data Science Salary Analysis (2020-2022)**  
+A comprehensive end-to-end data project analyzing global salary trends in the Data Science industry. This project explores the impact of experience levels, job roles, and geographic locations on compensation.
+
 ⭐ **LMS Reporting Pipeline**  
 Automated ETL pipeline that processes multiple Excel reports, cleans and transforms data using Python (Pandas), and consolidates it for analysis.
 
 ⭐ **Notion Data Pipeline**  
 Data pipeline that extracts data from the Notion API, transforms it, and generates structured datasets for reporting and analysis.
-
-⭐ **HR Data Analysis & Dashboards**  
-Development of dashboards in Power BI and Looker Studio to track KPIs, recruitment metrics, and workforce data.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 

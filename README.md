@@ -1,64 +1,106 @@
-<h1 align="center"><b>Hi there, I'm Dereck Mendez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!-- Header banner: custom SVG (stars, nebulae, constellations) stored in this repo -->
 <p align="center">
-Data Analyst focused on Business Intelligence & Data Automation
+  <img src="./assets/banner.svg" width="100%" alt="Dereck Mendez — Data Analyst · Business Intelligence"/>
 </p>
 
-## 👨‍💻 About Me
+<p align="center">
+  <i>Turning business questions into reliable data, clear dashboards and reproducible analysis.</i>
+</p>
 
-Data Analyst with hands-on experience transforming HR data into actionable insights and automated reporting solutions. I specialize in using **Python (Pandas, NumPy)** and **SQL** to clean, process, and analyze data, as well as building dashboards in **Power BI** and **Looker Studio** to support decision-making.
+<p align="center">
+  <a href="https://ayorick23.github.io/"><img src="https://img.shields.io/badge/Portfolio-ayorick23.github.io-1E3A8A?style=flat-square&logo=githubpages&logoColor=F8FAFC&labelColor=0B1A3A" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/dereckmendez/"><img src="https://img.shields.io/badge/LinkedIn-dereckmendez-1E3A8A?style=flat-square&logo=linkedin&logoColor=F8FAFC&labelColor=0B1A3A" alt="LinkedIn"/></a>
+  <a href="mailto:mayorickhenry@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1E3A8A?style=flat-square&logo=gmail&logoColor=F8FAFC&labelColor=0B1A3A" alt="Email"/></a>
+  <a href="https://www.kaggle.com/dereckmendez"><img src="https://img.shields.io/badge/Kaggle-dereckmendez-1E3A8A?style=flat-square&logo=kaggle&logoColor=F8FAFC&labelColor=0B1A3A" alt="Kaggle"/></a>
+</p>
 
-I have developed data pipelines to automate reporting processes, improving efficiency and data reliability. My focus is on solving business problems through data, particularly in areas like workforce analytics, performance tracking, and operational efficiency.
+## ✦ About
 
-## 📌 Featured Projects
+I'm an **Engineering Consultant at ACF Technologies (LATAM)**, working on data and machine learning solutions for workforce management in banking and telecom:
 
-⭐ **Data Science Salary Analysis (2020-2022)**  
-A comprehensive end-to-end data project analyzing global salary trends in the Data Science industry. This project explores the impact of experience levels, job roles, and geographic locations on compensation.
+- **Demand forecasting** - maintaining and improving predictive models that forecast contact-center demand and handle time, the input for automated staffing decisions.
+- **Workforce scheduling** - a resource-allocation project that turns demand forecasts into agent schedules aligned with expected volume.
+- **Data platform** - building the team's own data warehouse on a medallion architecture (bronze → silver → gold) to centralize and standardize operational data.
 
-⭐ **LMS Reporting Pipeline**  
-Automated ETL pipeline that processes multiple Excel reports, cleans and transforms data using Python (Pandas), and consolidates it for analysis.
+Before that, I spent three years in **People Analytics**, automating HR reporting with Python and building Power BI and Looker Studio dashboards for teams across Guatemala, Costa Rica and El Salvador.
 
-⭐ **Notion Data Pipeline**  
-Data pipeline that extracts data from the Notion API, transforms it, and generates structured datasets for reporting and analysis.
+## ✦ Currently
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
+```yaml
+building:  ecommerce-medallion-pipeline  →  Gold layer (star schema) with dbt + DuckDB
+learning:  dimensional modeling · orchestration with Airflow
+open_to:   Data Analyst · Business Intelligence roles
+```
 
-### 📊 Data Analysis & Business Intelligence
+## ✦ Featured Projects
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/><img width="45" height="45" src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" alt="looker-studio"/><img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/><img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/><img width="48" height="48" src="https://github.com/user-attachments/assets/43218651-0a52-44b5-92c7-35a1bcf129b3" alt="matplotlib"/>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/ayorick23/data-ai-compensation-benchmark">Data & AI Compensation Benchmark</a></h3>
+      <img src="https://img.shields.io/badge/Complete-1E3A8A?style=flat-square" alt="Complete"/>
+      <p>Global salary benchmark for data & AI roles with hypothesis testing, bootstrap confidence intervals and purchasing-power adjustment. Contract-tested ETL, business SQL and an <a href="https://app.powerbi.com/view?r=eyJrIjoiNjAyNTYxNjUtMzA4Ni00MDY5LWI1MzUtNDZmODUyYjM1OTY2IiwidCI6IjFmY2I4MjBlLWE1NTktNGRjNS1hM2RjLTQzNjJkZjc2OWQ5MSIsImMiOjR9">interactive Power BI dashboard</a>.</p>
+      <sub>Python · SciPy · Pandera · SQL · Power BI</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/ayorick23/telco-churn-mlops">Telco Churn MLOps</a></h3>
+      <img src="https://img.shields.io/badge/Complete-1E3A8A?style=flat-square" alt="Complete"/>
+      <p>End-to-end churn prediction system: model selection, experiment tracking, drift detection, champion/challenger retraining and an explainable API + dashboard deployed on Hugging Face Spaces.</p>
+      <sub>LightGBM · MLflow · DVC · Evidently · FastAPI · Docker</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/ayorick23/ecommerce-medallion-pipeline">E-Commerce Medallion Pipeline</a></h3>
+      <img src="https://img.shields.io/badge/In_progress-B45309?style=flat-square" alt="In progress"/>
+      <p>Incremental batch pipeline replaying ~100k real orders day by day through Bronze → Silver → Gold, with row-level lineage, idempotent reprocessing and fail-fast data quality gates.</p>
+      <sub>Polars · Pandera · dbt · DuckDB · Airflow</sub>
+    </td>
+  </tr>
+</table>
 
-### 💾 Databases
+<p align="center"><a href="https://ayorick23.github.io/">✦ Explore the full case studies on my portfolio →</a></p>
 
-![Programming Languages](https://skillicons.dev/icons?i=mysql,mongodb)
-<img width="48" height="48" src="https://github.com/user-attachments/assets/34610dc1-39db-4ccb-9c9f-479b7ba9eb82" alt="sqlserver"/>
+## ✦ Tech Stack
 
-### 🖥️ Programming Languages
+<p align="center"><sub><b>DATA & ANALYTICS</b></sub><br/>
+  <img src="https://img.shields.io/badge/Python-0B1A3A?style=for-the-badge&logo=python&logoColor=F8FAFC" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-0B1A3A?style=for-the-badge" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Pandas-0B1A3A?style=for-the-badge&logo=pandas&logoColor=F8FAFC" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Polars-0B1A3A?style=for-the-badge&logo=polars&logoColor=F8FAFC" alt="Polars"/>
+  <img src="https://img.shields.io/badge/NumPy-0B1A3A?style=for-the-badge&logo=numpy&logoColor=F8FAFC" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/SciPy-0B1A3A?style=for-the-badge&logo=scipy&logoColor=F8FAFC" alt="SciPy"/>
+</p>
 
-![Programming Languages](https://skillicons.dev/icons?i=python,matlab,r,java,cs)
+<p align="center"><sub><b>BI & VISUALIZATION</b></sub><br/>
+  <img src="https://img.shields.io/badge/Power_BI-0B1A3A?style=for-the-badge" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Looker_Studio-0B1A3A?style=for-the-badge&logo=looker&logoColor=F8FAFC" alt="Looker Studio"/>
+  <img src="https://img.shields.io/badge/Excel-0B1A3A?style=for-the-badge" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Streamlit-0B1A3A?style=for-the-badge&logo=streamlit&logoColor=F8FAFC" alt="Streamlit"/>
+</p>
 
-### 🔧 Tools & Technologies
+<p align="center"><sub><b>DATA ENGINEERING</b></sub><br/>
+  <img src="https://img.shields.io/badge/SQL_Server-0B1A3A?style=for-the-badge" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0B1A3A?style=for-the-badge&logo=postgresql&logoColor=F8FAFC" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/DuckDB-0B1A3A?style=for-the-badge&logo=duckdb&logoColor=F8FAFC" alt="DuckDB"/>
+  <img src="https://img.shields.io/badge/dbt-0B1A3A?style=for-the-badge&logo=dbt&logoColor=F8FAFC" alt="dbt"/>
+  <img src="https://img.shields.io/badge/Airflow-0B1A3A?style=for-the-badge&logo=apacheairflow&logoColor=F8FAFC" alt="Airflow"/>
+</p>
 
-![Tools & Technologies](https://skillicons.dev/icons?i=git,github,docker,vscode)
-<img width="48" height="48" src="https://github.com/user-attachments/assets/eccdd28b-4c77-462e-bbd8-1b00eb1ecc3b" alt="jupyter-notebook"/>
+<p align="center"><sub><b>MACHINE LEARNING & MLOPS</b></sub><br/>
+  <img src="https://img.shields.io/badge/scikit--learn-0B1A3A?style=for-the-badge&logo=scikitlearn&logoColor=F8FAFC" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/LightGBM-0B1A3A?style=for-the-badge" alt="LightGBM"/>
+  <img src="https://img.shields.io/badge/MLflow-0B1A3A?style=for-the-badge&logo=mlflow&logoColor=F8FAFC" alt="MLflow"/>
+  <img src="https://img.shields.io/badge/DVC-0B1A3A?style=for-the-badge&logo=dvc&logoColor=F8FAFC" alt="DVC"/>
+  <img src="https://img.shields.io/badge/FastAPI-0B1A3A?style=for-the-badge&logo=fastapi&logoColor=F8FAFC" alt="FastAPI"/>
+</p>
 
-### 🧮 Extras
+<p align="center"><sub><b>ENGINEERING PRACTICES</b></sub><br/>
+  <img src="https://img.shields.io/badge/Git-0B1A3A?style=for-the-badge&logo=git&logoColor=F8FAFC" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-0B1A3A?style=for-the-badge&logo=githubactions&logoColor=F8FAFC" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Docker-0B1A3A?style=for-the-badge&logo=docker&logoColor=F8FAFC" alt="Docker"/>
+  <img src="https://img.shields.io/badge/pytest-0B1A3A?style=for-the-badge&logo=pytest&logoColor=F8FAFC" alt="pytest"/>
+</p>
 
-![Extras](https://skillicons.dev/icons?i=notion,obsidian,md,latex,bash)
-
-## 🕹️ What Drives Me
-
-I am driven by the ability to turn raw data into meaningful insights that support better business decisions. I enjoy identifying inefficiencies, automating processes, and building data solutions that create real impact.
-
-I am especially interested in leveraging data to improve organizational performance, optimize workflows, and support strategic decision-making.
-
-## 🚀 Professional Focus
-
-I am currently focused on Data Analyst and Business Intelligence roles where I can apply my experience in data analysis, automation, and visualization.
-
-I bring a strong combination of technical skills and business understanding, especially in HR data, and I am ready to contribute by building efficient, data-driven solutions.
-
-## 📩 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dereckmendez/)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mayorickhenry@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ayorick23)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-181717?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/dereckmendez)
+<!-- Footer banner: custom SVG stored in this repo -->
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt=""/>
+</p>

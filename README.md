@@ -57,7 +57,7 @@ open_to:   Data Analyst · Business Intelligence roles
   </tr>
 </table>
 
-<p align="center"><a href="https://ayorick23.github.io/">✦ Explore the full case studies on my portfolio →</a></p>
+<p align="center"><a href="https://dereckmendez.com/">✦ Explore the full case studies on my portfolio →</a></p>
 
 ## ✦ Tech Stack
 

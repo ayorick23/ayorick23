@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ayorick23.github.io/"><img src="https://img.shields.io/badge/Portfolio-ayorick23.github.io-1E3A8A?style=flat-square&logo=githubpages&logoColor=F8FAFC&labelColor=0B1A3A" alt="Portfolio"/></a>
+  <a href="https://dereckmendez.com/"><img src="https://img.shields.io/badge/Portfolio-dereckmendez.com-1E3A8A?style=flat-square&logo=githubpages&logoColor=F8FAFC&labelColor=0B1A3A" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/dereckmendez/"><img src="https://img.shields.io/badge/LinkedIn-dereckmendez-1E3A8A?style=flat-square&logo=linkedin&logoColor=F8FAFC&labelColor=0B1A3A" alt="LinkedIn"/></a>
   <a href="mailto:mayorickhenry@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1E3A8A?style=flat-square&logo=gmail&logoColor=F8FAFC&labelColor=0B1A3A" alt="Email"/></a>
   <a href="https://www.kaggle.com/dereckmendez"><img src="https://img.shields.io/badge/Kaggle-dereckmendez-1E3A8A?style=flat-square&logo=kaggle&logoColor=F8FAFC&labelColor=0B1A3A" alt="Kaggle"/></a>
